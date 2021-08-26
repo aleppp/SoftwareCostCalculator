@@ -1,0 +1,56 @@
+Function Point: 336
+Effort: 1
+Time Development: 1.378
+Staff required in a project: 1
+STaff required in a month:1
+Cost estimation: RM1451.28
+
+
+Function Point: 129.6
+Effort: 12.8
+Time Development: 6.587
+Staff required in a project: 0
+STaff required in a month:2
+Cost estimation: RM1943.28
+
+
+Function Point: 124.8
+Effort: 12.303
+Time Development: 6.488
+Staff required in a project: 0
+STaff required in a month:2
+Cost estimation: RM2275.34
+
+
+Function Point: 3420
+Effort: 1014.891
+Time Development: 28.196
+Staff required in a project: 1
+STaff required in a month:36
+Cost estimation: RM125979.73
+
+
+Function Point: 1774.89
+Effort: 486.836
+Time Development: 21.803
+Staff required in a project: 1
+STaff required in a month:22
+Cost estimation: RM78149.55
+
+
+Function Point: 1544.62
+Effort: 416.668
+Time Development: 20.647
+Staff required in a project: 1
+STaff required in a month:20
+Cost estimation: RM50450.31
+
+
+Function Point: 852.69
+Effort: 147.559
+Time Development: 14.357
+Staff required in a project: 1
+STaff required in a month:10
+Cost estimation: RM51387.47
+
+
